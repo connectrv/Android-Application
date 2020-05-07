@@ -1,6 +1,6 @@
 # Device used 
 - Motorola G5S Plus
-Android- 
+Android- 8.1.0
 ## OnBoard Screen
 
 ![on Board](https://user-images.githubusercontent.com/20228645/81318168-7120be00-90ab-11ea-91d3-cf78d1f7094f.png)
